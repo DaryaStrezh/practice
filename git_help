@@ -1,0 +1,6 @@
+bash build_run.sh
+project/build/debug - лог и программа 
+ git status
+ git add *
+ git commit -m "add build_run.sh"	
+ git push
