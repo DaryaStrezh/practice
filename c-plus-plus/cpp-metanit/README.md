@@ -1,1 +1,2 @@
-[Course](https://metanit.com/cpp/) 
+[Theory](https://metanit.com/cpp/) 
+[Practice](https://metanit.com/cpp/practice/)
